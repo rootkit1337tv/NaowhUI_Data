@@ -1,9 +1,9 @@
 ## Title: |cff0091edNaowh|r|cffffa300UI|r_Data
 ## Notes: NaowhUI_Data
 ## Author: rootkit1337
-## Version: 20250526.01
+## Version: @project-version@
 ## Interface: 40402
 ## RequiredDeps: NaowhUI
 ## LoadOnDemand: 1
 
-Cata\Load.xml
+Mists\Load.xml

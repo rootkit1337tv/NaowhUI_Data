@@ -1,4 +1,0 @@
-<Ui xmlns="http://www.blizzard.com/wow/ui/">
-	<Script file="CoreData.lua"/>
-	<Script file="Tier11Data.lua"/>
-</Ui>
