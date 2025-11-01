@@ -2,7 +2,7 @@
 ## Notes: NaowhUI_Data
 ## Author: rootkit1337
 ## Version: @project-version@
-## Interface: 110205, 50501
+## Interface: 110205, 50503
 ## RequiredDeps: NaowhUI
 ## LoadOnDemand: 1
 ## IconTexture: Interface\AddOns\NaowhUI\Core\Media\Textures\LogoAddon
