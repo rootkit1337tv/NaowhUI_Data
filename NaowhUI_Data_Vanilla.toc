@@ -2,7 +2,7 @@
 ## Notes: NaowhUI_Data
 ## Author: rootkit1337
 ## Version: @project-version@
-## Interface: 11507
+## Interface: 11508
 ## RequiredDeps: NaowhUI
 ## LoadOnDemand: 1
 
